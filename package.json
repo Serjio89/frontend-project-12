@@ -1,8 +1,8 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "chat",
-  "main": "./frontend/src/index.js",
+  "description": "[![Actions Status](https://github.com/Serjio89/frontend-project-12/workflows/hexlet-check/badge.svg)](https://github.com/Serjio89/frontend-project-12/actions)",
+  "main": "index.js",
   "scripts": {
     "build": "npm run build --prefix frontend",
     "start": "start-server -s ./frontend/build",
