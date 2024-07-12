@@ -1,7 +1,6 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Serjio89/frontend-project-12/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Serjio89/frontend-project-12/actions)
-
-[Hexlet Chat](https://frontend-project-12-production-10a9.up.railway.app) – аналог Slack-чата (очень упрощенная версия)
+[![Actions Status](https://github.com/Serjio89/frontend-project-12/workflows/hexlet-check/badge.svg)](https://github.com/Serjio89/frontend-project-12/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8dfa8c48464bd1a0a11e/maintainability)](https://codeclimate.com/github/Serjio89/frontend-project-12/maintainability)
 
 ### описания по запуску
 Перейдите по [ссылке](https://frontend-project-12-production-10a9.up.railway.app)
@@ -19,7 +18,7 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 ## установка для разработчиков
 1. Клонируйте репозиторий с помощью следующей команды:
 ```sh 
-git clone https://github.com/semenChe/frontend-project-12
+git clone https://github.com/Serjio89/frontend-project-12
 ```
 
 2. Установите программу чат, используя следующие команды:

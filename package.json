@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/Serjio89/frontend-project-12/workflows/hexlet-check/badge.svg)](https://github.com/Serjio89/frontend-project-12/actions)",
+  "description": "chat",
   "main": "index.js",
   "scripts": {
     "build": "npm run build --prefix frontend",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Serjio89/frontend-project-12.git"
   },
-  "author": "Sergey Rubtsov",
+  "author": "Serjio89",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Serjio89/frontend-project-12/issues"
